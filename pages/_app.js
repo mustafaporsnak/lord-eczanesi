@@ -8,6 +8,7 @@ const menuItems = [
   { href: "/skt", label: "📅 SKT", },
   { href: "/its", label: "🔗 ITS", },
   { href: "/raporlar", label: "📈 Raporlar", },
+  { href: "/recete", label: "💊 Reçete", },
 ];
 
 export default function App({ Component, pageProps }) {
