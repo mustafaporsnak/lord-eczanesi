@@ -9,6 +9,7 @@ const menuItems = [
   { href: "/its", label: "🔗 ITS", },
   { href: "/raporlar", label: "📈 Raporlar", },
   { href: "/recete", label: "💊 Reçete", },
+  { href: "/asistan", label: "🤖 Asistan", },
 ];
 
 export default function App({ Component, pageProps }) {
